@@ -6,6 +6,7 @@ import "firebase/firestore";
 // Configuração do Firebase para conectar seu app com o projeto Firebase específico
 const firebaseConfig = {
 // Configuração do Firebase (deve ser criado pelo utilizador)
+
 };
 
 // Verifica se já existe uma instância do Firebase inicializada
